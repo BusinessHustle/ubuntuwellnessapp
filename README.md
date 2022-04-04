@@ -1,6 +1,6 @@
 # Ubuntuwellness Health App
 
-The Ubuntu Helath App is a prototype application 
+The Ubuntu Helath App is a prototype application built using the LAMP stack. accesssible here (**Link**)
 
 The purpose of this application is to connect users to a database of plant-based resources in order to help educate them more on the plant based living lifestyle.
 
