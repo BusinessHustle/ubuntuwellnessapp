@@ -12,7 +12,7 @@ Discalimer❗ I am not a medical specialist, and there might be mistakes.
 
 Below is a curated list of ML algorithms, datasets and research papers we went through during the process of development. 
 
-## Contents
+## App related content
 
 [Endocrinology & Metabolism](resources/medical-specialties/endocrinology.md)
 [Preventative Medicine & Nutrition](resources/medical-specialties/preventative-medicine.md)
