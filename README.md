@@ -1,6 +1,6 @@
 # Ubuntuwellness Health App
 
-The Ubuntu Helath App is a prototype application built using the LAMP stack. accesssible here (**Link**)
+The Ubuntu Health App is a prototype application built using the LAMP stack. accesssible here (**Link**)
 
 The purpose of this application is to connect users to a database of plant-based resources in order to help educate them more on the plant based living lifestyle.
 
@@ -9,6 +9,8 @@ Get connected to a list of well curated vegan resources, lose weight, lower bloo
 This application is acts as lifestyle disease self management tool for the [Ubuntu 21 day lifestyle disease reversal program](https://ubuntuwellness.com/diabetes-reversal/). 
 
 Discalimer❗ I am not a medical specialist, and there might be mistakes. 
+
+This project seeks to become a cornerstone of public health, and shape policy decisions and evidence-based practice by identifying risk factors for disease and targets for preventive healthcare through the mHealth App
 
 Below is a curated list of ML algorithms, datasets and research papers we went through during the process of development. 
 
@@ -32,3 +34,6 @@ Below is a curated list of ML algorithms, datasets and research papers we went t
   * [Awesome Healthmetrics](https://github.com/leandromineti/awesome-healthmetrics)
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
   * [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health)
+
+
+
