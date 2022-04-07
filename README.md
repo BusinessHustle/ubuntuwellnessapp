@@ -1,6 +1,6 @@
 # Ubuntuwellness Health App
 
-The Ubuntu Health App is a prototype application built using the LAMP stack. accesssible here (**Link**)
+The Ubuntu Health App is a prototype application built using the LAMP stack. accesssible here www.ubuntuwellness.com
 
 The purpose of this application is to connect users to a database of plant-based resources in order to help educate them more on the plant based living lifestyle.
 
